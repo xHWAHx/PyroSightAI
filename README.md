@@ -19,19 +19,24 @@ In this project we will leverage the Convolutional Neural Networks (CNN) model, 
 The core components include but are not limited to: 
 
   Image Classification Model with CNNs 
+      
       Our team developed a CNN model trained on images, obtained from open source data providers such as Kaggle, classified by fire intensity (no fire, small fire, medium fire, large fire). 
+      
       The CNN model will process live data from the camera feed and classify it according to one of the four intensity levels. 
 
   Threshold-Based Triggering System 
+      
       This system defines a set of thresholds for fire intensity levels based on the classification outputs. For example, if the model detects ‘large fire’ it automatically triggers the sprinklers, sends notifications to the owner, and signals emergency responders. 
 
   Real-Time Processing 
+      
       We integrate live camera feed with our CNN model for demonstration.
 
 Dataset used: 
 
   Open-source Fire Datasets: Existing labelled fire image datasets from platforms like Kaggle.
-  Simulated Data: Synthetic data by taking images through the phone. 
+  
+  Simulated Data: Synthetic data such as a simulated fire video. 
 
 Novelty of the project:
 
