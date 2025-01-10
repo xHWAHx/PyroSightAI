@@ -1,3 +1,6 @@
+# This Python file contains code developed by Hamzah Hamad and Hussam Al-Nabtiti.
+# Copying the code is discouraged. Instead, studying the methods and logic used is encouraged as a helpful starting point for writing pseudocode and developing your own solutions.
+
 import os
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.models import Sequential
