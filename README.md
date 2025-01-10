@@ -14,7 +14,7 @@ Objectives:
 
 Proposed Methods for Artificial Intelligence:
 
-In this project we will leverage the Convolutional Neural Networks (CNN) model, designed and trained to classify fire levels based on image data. 
+    In this project we will leverage the Convolutional Neural Networks (CNN) model, designed and trained to classify fire levels based on image data. 
 
 The core components include but are not limited to: 
 
@@ -34,11 +34,11 @@ The core components include but are not limited to:
 
 Dataset used: 
 
-  Open-source Fire Datasets: Existing labelled fire image datasets from platforms like Kaggle.
+      Open-source Fire Datasets: Existing labelled fire image datasets from platforms like Kaggle.
   
-  Simulated Data: Synthetic data such as a simulated fire video. 
+      Simulated Data: Synthetic data such as a simulated fire video. 
 
 Novelty of the project:
 
-The novelty of this project is found in connecting the computer vision system with real-time safety response mechanisms. Unlike sprinklers that rely on heating gases, or smoke detectors that wait for a plume of smoke to arise, we can provide quicker and more reliable safety responses through real-time assessment of visual cues and immediate location-specific safety response. The integration of classification and automated sprinkler activation will offer a new level of fire safety by minimising fire damage through early responses, whilst also reducing costs as opposed to other thermal imaging alternatives and updating property owners with live notifications. The system will also ensure timely and automated emergency service contact with the nearest fire stations.
+    The novelty of this project is found in connecting the computer vision system with real-time safety response mechanisms. Unlike sprinklers that rely on heating gases, or smoke detectors that wait for a plume of smoke to arise, we can provide quicker and more reliable safety responses through real-time assessment of visual cues and immediate location-specific safety response. The integration of classification and automated sprinkler activation will offer a new level of fire safety by minimising fire damage through early responses, whilst also reducing costs as opposed to other thermal imaging alternatives and updating property owners with live notifications. The system will also ensure timely and automated emergency service contact with the nearest fire stations.
 
