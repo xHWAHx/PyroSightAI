@@ -1,3 +1,6 @@
+# This Python file contains code developed by Hamzah Hamad and Hussam Al-Nabtiti.
+# Copying the code is discouraged. Instead, studying the methods and logic used is encouraged as a helpful starting point for writing pseudocode and developing your own solutions.
+
 import cv2                                                                           # for real-time video capturing
 import numpy as np                                                                   # used for mathematical/numerical operations 
 from tensorflow.keras.models import load_model                                       # used to load the pretrained model from train.py 
